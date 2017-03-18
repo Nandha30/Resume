@@ -2,6 +2,9 @@
 <head>
 Resume
 </head>
+<style>
+body{color: red}
+</style>
 <body>
 Hiii This is my very own code
 </body>
